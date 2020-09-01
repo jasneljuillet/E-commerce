@@ -16,6 +16,7 @@ function App() {
                    <li><a href="">Github</a></li>
                    <li><a href="">Instagram</a></li>
                    <li><a href="">Facebook</a></li>
+                   <li className="small"><a href="mailto:jasnel.services@gmail.com">Contact me</a></li>
                  </ul>
                </nav>
             </header>
